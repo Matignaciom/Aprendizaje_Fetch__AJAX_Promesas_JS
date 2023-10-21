@@ -15,6 +15,6 @@ El objetivo de este proyecto es proporcionar ejemplos claros y comentados de có
 ## Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo.
 
-## No olvides dar las gracias
+## Agradecimientos
 
 Hecho con ❤️ por Matias Ignacio - https://github.com/Matignaciom
